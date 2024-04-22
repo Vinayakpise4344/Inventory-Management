@@ -1,0 +1,30 @@
+.abt{
+    margin-left: 24%;
+    
+}
+.abt1{
+    padding-top: 49px;
+    
+    width:78%;
+    border: solid 2px rgb(204, 194, 214);
+    padding-bottom: 12px;
+    border-radius: 14px;
+    background-color: white;
+}
+.abt1 h2{
+    font-size: 44px;
+}
+.abt1 h3{
+    margin-top: 34px;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.abt1 p{
+    margin-top: 34px;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-right: 10px;
+    
+
+}

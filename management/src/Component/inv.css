@@ -1,0 +1,127 @@
+.info{
+    width:100%;
+    display: flex;
+    background-color: white;
+}
+.info h1{
+    margin-left: 18%;
+    padding-top: 35px;
+    padding-left: 52px;
+    font-size: 34px;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.info  p{
+    margin-left: 42%;
+    padding-top: 37px;
+    font-size: 16px;
+    color: black;
+    font-weight: 900;
+}
+.text{
+    margin-top: 23px;
+    margin-left: 19%;
+    padding: 34px;
+    padding-top: 12px;
+    width:75%;
+    height: 10px;
+    border-radius: 12px;
+    border: 2px solid rgb(223, 245, 245);
+    background-color:rgb(255, 255, 255);
+}
+.text input{
+    margin: 6px 14px;
+    padding: 6px;
+    border-radius: 4px ;
+    
+}
+.flex{
+    margin-top: 8px; 
+    border-radius: 24px;
+    list-style: none;
+    text-decoration: none;
+    
+    
+}
+.flexe tr{
+    display: flex;
+    
+    margin-left: 12px;
+    padding-left: 34px;
+    padding-top: 4px;
+    
+}
+.flexe td{
+   
+    width:105px;
+    
+    background-color: white;
+}
+.flexe tr button{
+    color:white;
+    background-color: rgb(17, 190, 248);
+}
+.flexe tr td{
+    padding:6px 34px;
+    font-size: 20px;
+}
+
+
+.flex h1{
+   display: flex;
+   
+    
+}
+.flexe{
+    padding-left: 0%;
+    margin-left: 0px;
+}
+
+.flexe h5{
+    padding-left: 35px;
+    padding-top: 6px;
+    margin-left: 1px;
+   
+    font-size: 18px;
+    width:180px;
+    
+    background-color: white;
+    
+    border-radius:4px ;
+
+}
+
+
+.ren{
+    margin-left: 18%;
+    border-radius: 24px;
+    margin-top: 24px;
+    padding-left: 0px;
+     
+}
+
+/* .ren .dele{
+    margin-left: 232px;
+} */
+.flex .dele{
+    width:95px;
+    height: 34px;
+    border-radius: 12px;
+    
+    font-weight: 600;
+    font-size: 22pxs;
+    color: rgb(251, 249, 249);
+    background-color:rgb(253, 2, 2);
+}
+
+ button{
+    width:85px;
+    height: 34px;
+    border-radius: 12px;
+    margin-left: 12px;
+    font-weight: 600;
+    font-size: 22pxs;
+    color: black;
+    background-color:rgb(38, 235, 38);
+}
